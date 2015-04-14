@@ -1,5 +1,5 @@
-#include <iostream>
-#include <cmath>
+#include <iostream>      // For information on my advances, please clikc the wiki page, there you will find the day to day
+#include <cmath>         // updates for this project.
 #include <fstream>
 
 using namespace std;
